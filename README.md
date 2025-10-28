@@ -48,8 +48,7 @@ The backend handles authentication, user data, and product management.
 
 Here are some preview images of the app:
 
-|-------------------------------------|------------|----------------|---------------|-----------|
-| ![Home](./assets/screens/Home-Dark.jpg) | ![Home](./assets/screens/Home-Light.jpg) | ![Product](./assets/screens/product.png) | ![Settings](./assets/screens/settings-Dark.jpg) | ![Settings](./assets/screens/settings-Light.jpg) |
+| ![Home](./assets/screens/Home-Dark.jpg?raw=true | width=140) | ![Home](./assets/screens/Home-Light.jpg) | ![Settings](./assets/screens/settings-Dark.jpg?raw=true | width=140) | ![Settings](./assets/screens/settings-Light.jpg?raw=true | width=140) |
 
 ---
 
